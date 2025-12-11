@@ -9,9 +9,10 @@
     border-radius: 10px;
 }
 
-
 body {
 background-image:url("black.jpg");
+background-repeat:no-repeat;
+background-size:cover;
 font-family:"Dancing Script",cursive;
 padding:50px;
 color:white;
